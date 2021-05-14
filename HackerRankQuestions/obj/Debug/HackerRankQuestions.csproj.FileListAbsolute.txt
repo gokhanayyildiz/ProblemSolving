@@ -1,0 +1,7 @@
+C:\Users\gkhan\Desktop\HackerRank\HackerRankQuestions\HackerRankQuestions\bin\Debug\HackerRankQuestions.exe.config
+C:\Users\gkhan\Desktop\HackerRank\HackerRankQuestions\HackerRankQuestions\bin\Debug\HackerRankQuestions.exe
+C:\Users\gkhan\Desktop\HackerRank\HackerRankQuestions\HackerRankQuestions\bin\Debug\HackerRankQuestions.pdb
+C:\Users\gkhan\Desktop\HackerRank\HackerRankQuestions\HackerRankQuestions\obj\Debug\HackerRankQuestions.csprojAssemblyReference.cache
+C:\Users\gkhan\Desktop\HackerRank\HackerRankQuestions\HackerRankQuestions\obj\Debug\HackerRankQuestions.csproj.CoreCompileInputs.cache
+C:\Users\gkhan\Desktop\HackerRank\HackerRankQuestions\HackerRankQuestions\obj\Debug\HackerRankQuestions.exe
+C:\Users\gkhan\Desktop\HackerRank\HackerRankQuestions\HackerRankQuestions\obj\Debug\HackerRankQuestions.pdb
